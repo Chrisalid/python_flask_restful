@@ -1,7 +1,7 @@
 from flask import request, json
 from flask_restful import Resource
 
-skills = ['Java', 'C', 'Python']
+skills = ['Java', 'C', 'Python', 'C++']
 
 class Skills(Resource):
     def get(self):
