@@ -14,6 +14,11 @@ tasks = [{
     'name': 'Josue',
     'task': 'Program',
     'status': 'Fail'
+}, {
+    'id': 2,
+    'name': 'Glauber',
+    'task': 'Frontend',
+    'status': 'In Progress'
 }]
 
 
